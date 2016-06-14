@@ -3,7 +3,8 @@
   "description": "",
   "version": "1.0",
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "https://api.mailgun.net/*"
   ],
   "background": {
     "scripts": ["background.js"],
